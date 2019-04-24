@@ -48,7 +48,7 @@
 
 ### 12. All the companies that have been 'deadpooled' after the third year.
 
-<!-- Your Code Goes Here -->
+<!-- db.companies.find({deadpooled_year:{ $gt:3 }}) -->
 
 ### 13. All the companies founded before 2000 that have and acquisition amount of more than 10.000.000
 
